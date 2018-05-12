@@ -1,0 +1,33 @@
+_repo: The-Girl-WarriorsA-Book-for-Girls_44133
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44133-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Williams, Adene
+    gutenberg_agent_id: '42599'
+    url: http://www.gutenberg.org/2009/agents/42599
+description: ''
+gutenberg_issued: '2013-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44133'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Study skills -- Juvenile fiction'
+- !lcsh 'Books and reading -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Procrastination -- Juvenile fiction'
+- !lcsh 'Young women -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Students -- Juvenile fiction'
+- !lcsh 'Girls -- Societies and clubs -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Success -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Diligence -- Juvenile fiction'
+title: 'The Girl Warriors: A Book for Girls'
+url: http://www.gutenberg.org/ebooks/44133
